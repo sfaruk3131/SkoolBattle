@@ -15,4 +15,10 @@ public class Board {
 
     }
 
+    public changePos()
+    {
+
+    }
+
+
 }
